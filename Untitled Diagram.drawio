@@ -1,14 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="dIcrA_qB1EK9TaSI5K_2">
-    <mxGraphModel dx="1800" dy="1220" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2113" dy="1169" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UraL1NpnlC7Kskf86XwC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-264.17" y="-113" width="221" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-2" target="UraL1NpnlC7Kskf86XwC-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UraL1NpnlC7Kskf86XwC-2" value="Home Page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-218.67" y="-58" width="123" height="46" as="geometry" />
+          <mxGeometry x="-212.67" y="-58" width="123" height="46" as="geometry" />
         </mxCell>
         <mxCell id="UraL1NpnlC7Kskf86XwC-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-1" target="UraL1NpnlC7Kskf86XwC-1">
           <mxGeometry relative="1" as="geometry" />
@@ -17,46 +20,164 @@
           <mxGeometry x="-153.17" y="-104" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UraL1NpnlC7Kskf86XwC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="360" width="215" height="262" as="geometry" />
+          <mxGeometry x="-260" y="360" width="215" height="315" as="geometry" />
         </mxCell>
         <mxCell id="UraL1NpnlC7Kskf86XwC-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-8" target="UraL1NpnlC7Kskf86XwC-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="53" y="382" />
+              <mxPoint x="148" y="513" />
+              <mxPoint x="202" y="490" />
+              <mxPoint x="297" y="494" />
+              <mxPoint x="465" y="494" />
+              <mxPoint x="476" y="441" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UraL1NpnlC7Kskf86XwC-8" value="University Teacher Information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-244" y="375" width="182" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-50" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-9" target="UraL1NpnlC7Kskf86XwC-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UraL1NpnlC7Kskf86XwC-9" value="Skill Development Section" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-244" y="424" width="182" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-58" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-10" target="UraL1NpnlC7Kskf86XwC-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="35" y="482" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UraL1NpnlC7Kskf86XwC-10" value="Course-Based Resource Library" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-244" y="473" width="182" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-64" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-11" target="UraL1NpnlC7Kskf86XwC-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UraL1NpnlC7Kskf86XwC-11" value="CV Building and Review" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-244" y="522" width="182" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UraL1NpnlC7Kskf86XwC-13" value="CV Building and Review" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-244" y="569" width="182" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UraL1NpnlC7Kskf86XwC-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="57" y="265" width="331" height="260.5" as="geometry" />
-        </mxCell>
-        <mxCell id="UraL1NpnlC7Kskf86XwC-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="73.75" y="300" width="308.5" height="219" as="geometry" />
-        </mxCell>
-        <mxCell id="UraL1NpnlC7Kskf86XwC-20" value="University Teacher Information" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="139.5" y="264.5" width="166" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UraL1NpnlC7Kskf86XwC-21" value="Contact Information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="346" width="128" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="UraL1NpnlC7Kskf86XwC-22" value="About Teachers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="376.5" width="128" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="UraL1NpnlC7Kskf86XwC-23" value="Class Schedules" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="109" y="422" width="128" height="66" as="geometry" />
+        <mxCell id="UraL1NpnlC7Kskf86XwC-13" value="Notice And Announcement Panel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-244" y="570" width="182" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UraL1NpnlC7Kskf86XwC-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="45" width="342" height="269" as="geometry" />
+          <mxGeometry x="-320" y="129" width="342" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-31" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-299.17" y="159" width="296" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-32" target="UraL1NpnlC7Kskf86XwC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-32" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-188.00000000000003" y="244" width="71" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-33" target="UraL1NpnlC7Kskf86XwC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-33" value="Registration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-271" y="193" width="91" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-34" target="UraL1NpnlC7Kskf86XwC-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-73" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-34" target="UraL1NpnlC7Kskf86XwC-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-34" value="Authentication" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-127" y="183" width="104.17" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-47" value="Login and Registration&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-216.17" y="129" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-49" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-522" y="386.75" width="190" height="114.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-51" value="Professional Guidance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-505" y="401" width="156" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-52" value="Free Courses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-505" y="450" width="156" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-57" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="118.86" y="295" width="288.64" height="175.25" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-59" value="Books/Handnotes/Websites" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="309.25" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-60" value="Youtube Video Tutorials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140.66" y="362.25" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-61" value="COurse Materials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="416.25" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-63" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="512" width="232" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-65" value="All About CV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103.86" y="522" width="198.14" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-66" value="CV Creation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105.93" y="566" width="198.14" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-67" value="CV Review System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106.43" y="609" width="198.14" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-68" value="Personal Grow Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-244.67" y="619" width="182" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-70" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="468" y="236.00344168260037" width="267" height="210.5965583173996" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-17" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="UraL1NpnlC7Kskf86XwC-70">
+          <mxGeometry width="267" height="210.5965583173996" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-69" value="" style="group" vertex="1" connectable="0" parent="UraL1NpnlC7Kskf86XwC-70">
+          <mxGeometry x="13.511329305135945" y="1.9865583173996129" width="248.85045317220548" height="202.96181644359464" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-19" value="" style="ellipse;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="UraL1NpnlC7Kskf86XwC-69">
+          <mxGeometry y="26.254359464627157" width="248.85045317220548" height="176.70745697896749" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-20" value="University Teacher Information" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="UraL1NpnlC7Kskf86XwC-69">
+          <mxGeometry x="36.19867069486405" width="176.45" height="24.21" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-21" value="Contact Information" style="ellipse;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="UraL1NpnlC7Kskf86XwC-69">
+          <mxGeometry x="25.207703927492446" y="63.37099426386237" width="103.25075528700907" height="53.254302103250474" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-22" value="About Teachers" style="ellipse;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="UraL1NpnlC7Kskf86XwC-69">
+          <mxGeometry x="126.03851963746226" y="87.98093690248567" width="103.25075528700907" height="53.254302103250474" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-23" value="Class Schedules" style="ellipse;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="UraL1NpnlC7Kskf86XwC-69">
+          <mxGeometry x="28.434290030211486" y="124.69413001912045" width="103.25075528700907" height="53.254302103250474" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-72" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="88" width="376" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-74" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="110" width="341" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-75" value="UserName Checking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="129" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-76" value="Password Checking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130.93" y="183" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-80" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-78" target="UraL1NpnlC7Kskf86XwC-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-78" value="Forget Password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263.5" y="157.5" width="144" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-79" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="76" width="305" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-81" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="488" y="88" width="266" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="UraL1NpnlC7Kskf86XwC-82" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="513" y="102" width="144" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
