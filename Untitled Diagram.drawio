@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="dIcrA_qB1EK9TaSI5K_2">
-    <mxGraphModel dx="2550" dy="1342" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1850" dy="965" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,7 +295,7 @@
         <mxCell id="Bnf2NCZyDXiezHd9HjdY-53" value="Academic Result Analysis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2" y="472" width="120" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="Bnf2NCZyDXiezHd9HjdY-54" value="Extra Co-curricular activities" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bnf2NCZyDXiezHd9HjdY-54" value="Extra Co-curricular activities analysis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50.5" y="519" width="120" height="47" as="geometry" />
         </mxCell>
         <mxCell id="Bnf2NCZyDXiezHd9HjdY-55" value="Personal Grow Analysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -330,7 +330,7 @@
         <mxCell id="UraL1NpnlC7Kskf86XwC-60" value="Youtube Video Tutorials" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450.16" y="546.25" width="158.84" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UraL1NpnlC7Kskf86XwC-61" value="COurse Materials" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UraL1NpnlC7Kskf86XwC-61" value="Course Materials" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="452" y="600.25" width="156" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bnf2NCZyDXiezHd9HjdY-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.231;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UraL1NpnlC7Kskf86XwC-78" target="UraL1NpnlC7Kskf86XwC-79">
